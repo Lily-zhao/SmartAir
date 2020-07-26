@@ -1,9 +1,9 @@
-#实验设备
+# 实验设备
 - 小米aqara网关
 - 小米空调伴侣（支持网关）
 - 小米温湿度传感器
 
-#环境配置
+# 环境配置
 - Homeassistant 环境安装
   
   官网地址：https://www.hachina.io/docs/2104.html
