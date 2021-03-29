@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-29T17:13:15.074Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="zQHsjMbE649TsioMgx-L" version="14.4.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-29T17:20:54.162Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="BEBxaHtt45sEUIuvwwQc" version="14.4.9" type="github" pages="3">
   <diagram id="mTPmO_EP1wIf3XusBCoq" name="Page-1">
     <mxGraphModel dx="1773" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -147,7 +147,7 @@
       <root>
         <mxCell id="54Dg-jRQsoiocnFr7WB6-0" />
         <mxCell id="54Dg-jRQsoiocnFr7WB6-1" parent="54Dg-jRQsoiocnFr7WB6-0" />
-        <mxCell id="54Dg-jRQsoiocnFr7WB6-2" value="对研究背景进行介绍，包括国内外研究现状，针对大规模数据收集的空调智能控制算法提出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="54Dg-jRQsoiocnFr7WB6-1">
+        <mxCell id="54Dg-jRQsoiocnFr7WB6-2" value="介绍课题的研究背景，提出隐私安全的空调控制模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="54Dg-jRQsoiocnFr7WB6-1">
           <mxGeometry x="200" y="130" width="310" height="40" as="geometry" />
         </mxCell>
         <mxCell id="54Dg-jRQsoiocnFr7WB6-3" value="第一章" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="54Dg-jRQsoiocnFr7WB6-1">
@@ -162,7 +162,7 @@
         <mxCell id="54Dg-jRQsoiocnFr7WB6-6" value="第四章" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="54Dg-jRQsoiocnFr7WB6-1">
           <mxGeometry x="70" y="310" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="54Dg-jRQsoiocnFr7WB6-7" value="对研究背景进行介绍，包括国内外研究现状，针对大规模数据收集的空调智能控制算法提出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="54Dg-jRQsoiocnFr7WB6-1">
+        <mxCell id="54Dg-jRQsoiocnFr7WB6-7" value="对提出的空调控制模型所用的相关技术和算法进行介绍，为第三章节深度强化学习模型提出做铺垫" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="54Dg-jRQsoiocnFr7WB6-1">
           <mxGeometry x="200" y="190" width="310" height="40" as="geometry" />
         </mxCell>
         <mxCell id="54Dg-jRQsoiocnFr7WB6-8" value="对研究背景进行介绍，包括国内外研究现状，针对大规模数据收集的空调智能控制算法提出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="54Dg-jRQsoiocnFr7WB6-1">
