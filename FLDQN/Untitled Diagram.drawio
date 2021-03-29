@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-29T17:25:39.800Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="hgHUfwYwwrFeEgoBtAe1" version="14.4.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-29T17:31:44.152Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="oVgp2iPl3JT76sM6wqH9" version="14.4.9" type="github" pages="3">
   <diagram id="mTPmO_EP1wIf3XusBCoq" name="Page-1">
     <mxGraphModel dx="1773" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -147,41 +147,76 @@
       <root>
         <mxCell id="54Dg-jRQsoiocnFr7WB6-0" />
         <mxCell id="54Dg-jRQsoiocnFr7WB6-1" parent="54Dg-jRQsoiocnFr7WB6-0" />
-        <mxCell id="54Dg-jRQsoiocnFr7WB6-2" value="介绍课题的研究背景，提出隐私安全的空调控制模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="54Dg-jRQsoiocnFr7WB6-1">
-          <mxGeometry x="200" y="130" width="310" height="40" as="geometry" />
+        <mxCell id="54Dg-jRQsoiocnFr7WB6-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="54Dg-jRQsoiocnFr7WB6-1" source="54Dg-jRQsoiocnFr7WB6-2" target="54Dg-jRQsoiocnFr7WB6-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="54Dg-jRQsoiocnFr7WB6-2" value="介绍课题的研究背景与现状，提出隐私安全的空调智能控制模型，通过联邦学习框架实现安全训练，利用强化学习实现智能控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="54Dg-jRQsoiocnFr7WB6-1">
+          <mxGeometry x="200" y="120" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="54Dg-jRQsoiocnFr7WB6-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="54Dg-jRQsoiocnFr7WB6-1" source="54Dg-jRQsoiocnFr7WB6-3" target="54Dg-jRQsoiocnFr7WB6-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="54Dg-jRQsoiocnFr7WB6-3" value="第一章" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="54Dg-jRQsoiocnFr7WB6-1">
           <mxGeometry x="70" y="130" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="54Dg-jRQsoiocnFr7WB6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="54Dg-jRQsoiocnFr7WB6-1" source="54Dg-jRQsoiocnFr7WB6-4" target="54Dg-jRQsoiocnFr7WB6-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="54Dg-jRQsoiocnFr7WB6-4" value="第二章" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="54Dg-jRQsoiocnFr7WB6-1">
           <mxGeometry x="70" y="190" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="54Dg-jRQsoiocnFr7WB6-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="54Dg-jRQsoiocnFr7WB6-1" source="54Dg-jRQsoiocnFr7WB6-5" target="54Dg-jRQsoiocnFr7WB6-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="54Dg-jRQsoiocnFr7WB6-5" value="第三章" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="54Dg-jRQsoiocnFr7WB6-1">
           <mxGeometry x="70" y="250" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="54Dg-jRQsoiocnFr7WB6-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="54Dg-jRQsoiocnFr7WB6-1" source="54Dg-jRQsoiocnFr7WB6-6" target="54Dg-jRQsoiocnFr7WB6-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="54Dg-jRQsoiocnFr7WB6-6" value="第四章" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="54Dg-jRQsoiocnFr7WB6-1">
           <mxGeometry x="70" y="310" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="54Dg-jRQsoiocnFr7WB6-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="54Dg-jRQsoiocnFr7WB6-1" source="54Dg-jRQsoiocnFr7WB6-7" target="54Dg-jRQsoiocnFr7WB6-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="54Dg-jRQsoiocnFr7WB6-7" value="对提出的空调控制模型所用的相关技术和算法进行介绍，为第三章节深度强化学习模型提出做铺垫" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="54Dg-jRQsoiocnFr7WB6-1">
-          <mxGeometry x="200" y="190" width="310" height="40" as="geometry" />
+          <mxGeometry x="200" y="185" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="54Dg-jRQsoiocnFr7WB6-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="54Dg-jRQsoiocnFr7WB6-1" source="54Dg-jRQsoiocnFr7WB6-8" target="54Dg-jRQsoiocnFr7WB6-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="54Dg-jRQsoiocnFr7WB6-8" value="利用联邦学习框架实现多个强化学习控制模型的联合训练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="54Dg-jRQsoiocnFr7WB6-1">
-          <mxGeometry x="200" y="310" width="310" height="40" as="geometry" />
+          <mxGeometry x="200" y="305" width="310" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="54Dg-jRQsoiocnFr7WB6-9" value="使用第三章介绍的深度强化学习模算法建立空调智能控制模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="54Dg-jRQsoiocnFr7WB6-1">
-          <mxGeometry x="200" y="250" width="310" height="40" as="geometry" />
+        <mxCell id="54Dg-jRQsoiocnFr7WB6-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="54Dg-jRQsoiocnFr7WB6-1" source="54Dg-jRQsoiocnFr7WB6-9" target="54Dg-jRQsoiocnFr7WB6-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="54Dg-jRQsoiocnFr7WB6-9" value="使用第三章介绍的深度强化学习算法建立空调智能控制模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="54Dg-jRQsoiocnFr7WB6-1">
+          <mxGeometry x="200" y="245" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="54Dg-jRQsoiocnFr7WB6-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="54Dg-jRQsoiocnFr7WB6-1" source="54Dg-jRQsoiocnFr7WB6-10" target="54Dg-jRQsoiocnFr7WB6-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="54Dg-jRQsoiocnFr7WB6-10" value="第五章" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="54Dg-jRQsoiocnFr7WB6-1">
           <mxGeometry x="70" y="370" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="54Dg-jRQsoiocnFr7WB6-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="54Dg-jRQsoiocnFr7WB6-1" source="54Dg-jRQsoiocnFr7WB6-11" target="54Dg-jRQsoiocnFr7WB6-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="54Dg-jRQsoiocnFr7WB6-11" value="第六章" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="54Dg-jRQsoiocnFr7WB6-1">
           <mxGeometry x="70" y="430" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="54Dg-jRQsoiocnFr7WB6-12" value="通过将模型应用到实际环境中，对模型效果进行验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="54Dg-jRQsoiocnFr7WB6-1">
-          <mxGeometry x="200" y="370" width="310" height="40" as="geometry" />
+        <mxCell id="54Dg-jRQsoiocnFr7WB6-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="54Dg-jRQsoiocnFr7WB6-1" source="54Dg-jRQsoiocnFr7WB6-12" target="54Dg-jRQsoiocnFr7WB6-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="54Dg-jRQsoiocnFr7WB6-13" value="对研究背景进行介绍，包括国内外研究现状，针对大规模数据收集的空调智能控制算法提出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="54Dg-jRQsoiocnFr7WB6-1">
-          <mxGeometry x="200" y="430" width="310" height="40" as="geometry" />
+        <mxCell id="54Dg-jRQsoiocnFr7WB6-12" value="通过将模型应用到实际环境中，对模型效果进行验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="54Dg-jRQsoiocnFr7WB6-1">
+          <mxGeometry x="200" y="365" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="54Dg-jRQsoiocnFr7WB6-13" value="对本文内容进行总结，并对未来发展方向进行展望" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="54Dg-jRQsoiocnFr7WB6-1">
+          <mxGeometry x="200" y="425" width="310" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
